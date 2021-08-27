@@ -1,0 +1,2 @@
+(this["webpackJsonptogedoor-frontend"]=this["webpackJsonptogedoor-frontend"]||[]).push([[42],{663:function(o,t,n){"use strict";n.r(t);n(0);var e=n(1);t.default=function(){return Object(e.jsx)("div",{children:"Portfolio"})}}}]);
+//# sourceMappingURL=42.d74a9ab2.chunk.js.map
